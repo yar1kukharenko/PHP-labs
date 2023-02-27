@@ -15,7 +15,8 @@ html, body {
 }
 
 main {
-    flex: 1 0 auto;
+    margin: auto 0;
+    /* flex: 1 0 auto; */
 }
 
 footer {
